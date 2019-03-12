@@ -20,11 +20,17 @@ public class Hello{
 		<th>私有的</th>
 	</tr>	
 	<tr>
-		<th>private</th>
-		<th>私有的</th>
+		<th>protect</th>
+		<th>受保护的</th>
 	</tr>	
 	<tr>
-		<th>private</th>
-		<th>私有的</th>
-	</tr>	
+		<th>public</th>
+		<th>公共的</th>
+	</tr>
+	
+	<tr>
+		<th rowspan='50'>类、方法和变量修饰符</th>
+		<th>abstract</th>
+		<th>抽象的</th>
+	</tr>
 </table>
