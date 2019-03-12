@@ -28,7 +28,7 @@ public class Hello{
 		<th>公共的</th>
 	</tr>
 	<tr>
-		<th rowspan='50'>类、方法和变量修饰符</th>
+		<th rowspan='9'>类、方法和变量修饰符</th>
 		<th>abstract</th>
 		<th>抽象的</th>
 	</tr>
@@ -65,6 +65,7 @@ public class Hello{
 		<th>静态</th>
 	</tr>
 	<tr>
+	    <th rowspan='7'>基本类型</th>
 		<th>byte</th>
 		<th>字节型</th>
 	</tr>
@@ -91,5 +92,14 @@ public class Hello{
 	<tr>
 		<th>short</th>
 		<th>短整形</th>
+	</tr>
+	<tr>
+	    <th rowspan='2'>包相关</th>
+		<th>import</th>
+		<th>引入</th>
+	</tr>
+	<tr>
+		<th>package</th>
+		<th>包</th>
 	</tr>
 </table>
