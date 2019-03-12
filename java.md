@@ -45,7 +45,51 @@ public class Hello{
 		<th>最终值、不可变</th>
 	</tr>
 	<tr>
-		<th>public</th>
-		<th>公共的</th>
+		<th>implements</th>
+		<th>实现（接口）</th>
+	</tr>
+	<tr>
+		<th>interface</th>
+		<th>接口</th>
+	</tr>
+	<tr>
+		<th>native</th>
+		<th>本地、原生方法</th>
+	</tr>
+	<tr>
+		<th>new</th>
+		<th>创建</th>
+	</tr>
+	<tr>
+		<th>static</th>
+		<th>静态</th>
+	</tr>
+	<tr>
+		<th>byte</th>
+		<th>字节型</th>
+	</tr>
+	<tr>
+		<th>char</th>
+		<th>字符型</th>
+	</tr>
+	<tr>
+		<th>double</th>
+		<th>双精度型</th>
+	</tr>
+	<tr>
+		<th>float</th>
+		<th>单精度浮点型</th>
+	</tr>
+	<tr>
+		<th>int</th>
+		<th>整形</th>
+	</tr>
+	<tr>
+		<th>long</th>
+		<th>长整形</th>
+	</tr>
+	<tr>
+		<th>short</th>
+		<th>短整形</th>
 	</tr>
 </table>
