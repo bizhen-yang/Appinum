@@ -27,7 +27,6 @@ public class Hello{
 		<th>public</th>
 		<th>公共的</th>
 	</tr>
-	
 	<tr>
 		<th rowspan='50'>类、方法和变量修饰符</th>
 		<th>abstract</th>
