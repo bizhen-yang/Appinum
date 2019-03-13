@@ -120,7 +120,8 @@ dataType [] myList = new dataType[listSize];
 for(type element:elements){
 	System.out.println(element)
 }
-···
+``` 
+
 
 `java.util.Arrays`能方便操作数组  
 * fill：给数组赋值
