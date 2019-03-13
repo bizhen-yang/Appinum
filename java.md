@@ -127,5 +127,35 @@ for(type element:elements){
 * fill：给数组赋值
 * sort：对数组排序
 * equals：比较数组
-* binarySearch:查找数组元素
+* binarySearch：查找数组元素
 
+## java数据结构
+<table>
+	<tr>
+		<th>enum</th>
+		<th>枚举</th>
+	</tr>
+	<tr>
+		<th>Set</th>
+		<th>集合</th>
+	</tr>
+	<tr>
+		<th>Vector</th>
+		<th>向量</th>
+	</tr>
+	<tr>
+		<th>Stack</th>
+		<th>栈</th>
+	</tr>
+	<tr>
+		<th>Dic</th>
+		<th>字典</th>
+	</tr>
+	<tr>
+		<th>hash</th>
+		<th>哈希表</th>
+	</tr>
+</table>
+
+## java集合
+集合接口和集合实现类的概念  
