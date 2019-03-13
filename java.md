@@ -121,3 +121,10 @@ for(type element:elements){
 	System.out.println(element)
 }
 ···
+
+`java.util.Arrays`能方便操作数组  
+* fill：给数组赋值
+* sort：对数组排序
+* equals：比较数组
+* binarySearch:查找数组元素
+
