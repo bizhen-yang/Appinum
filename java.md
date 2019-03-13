@@ -94,6 +94,10 @@ public class Hello{
 		<th>短整形</th>
 	</tr>
 	<tr>
+	    <th>boolean</th>
+		<th>布尔型</th>
+	</tr>
+	<tr>
 	    <th rowspan='2'>包相关</th>
 		<th>import</th>
 		<th>引入</th>
