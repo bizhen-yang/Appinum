@@ -107,3 +107,17 @@ public class Hello{
 		<th>包</th>
 	</tr>
 </table>
+
+
+## 数组
+```java
+dataType [] myList;
+
+//创建数组
+dataType [] myList = new dataType[listSize];
+
+//for each循环
+for(type element:elements){
+	System.out.println(element)
+}
+···
